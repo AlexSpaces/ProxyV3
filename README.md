@@ -21,7 +21,7 @@ https://demo-opensource.rammerhead.org
 <a href="https://replit.com/github/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
 <a href="https://heroku.com/deploy/?template=https://github.com/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg"></a>
 <a href="https://glitch.com/edit/#!/import/github/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/glitch.svg"></a>
-
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-to-Koyeb)
 ## Supporting me and contributing
 
 Server infrastructure costs money and developing this project consumes a lot of my time, so I would appreciate it greatly if you become a Patreon member: https://www.patreon.com/rammerhead
